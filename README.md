@@ -13,3 +13,4 @@ Adaboost
 `collections`
 `spicy`
 `joblib`
+`pandas`
